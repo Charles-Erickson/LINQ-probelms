@@ -9,3 +9,14 @@ C:\Users\cse62\source\repos\testLINQ\testLINQ\bin\Debug\netcoreapp2.1\testLINQ.d
 C:\Users\cse62\source\repos\testLINQ\testLINQ\bin\Debug\netcoreapp2.1\testLINQ.pdb
 C:\Users\cse62\source\repos\testLINQ\testLINQ\obj\Debug\netcoreapp2.1\testLINQ.dll
 C:\Users\cse62\source\repos\testLINQ\testLINQ\obj\Debug\netcoreapp2.1\testLINQ.pdb
+C:\Users\cse62\OneDrive\Desktop\Camp\LINQ-probelms\testLINQ\obj\Debug\netcoreapp2.1\testLINQ.csprojAssemblyReference.cache
+C:\Users\cse62\OneDrive\Desktop\Camp\LINQ-probelms\testLINQ\obj\Debug\netcoreapp2.1\testLINQ.csproj.CoreCompileInputs.cache
+C:\Users\cse62\OneDrive\Desktop\Camp\LINQ-probelms\testLINQ\obj\Debug\netcoreapp2.1\testLINQ.AssemblyInfoInputs.cache
+C:\Users\cse62\OneDrive\Desktop\Camp\LINQ-probelms\testLINQ\obj\Debug\netcoreapp2.1\testLINQ.AssemblyInfo.cs
+C:\Users\cse62\OneDrive\Desktop\Camp\LINQ-probelms\testLINQ\obj\Debug\netcoreapp2.1\testLINQ.dll
+C:\Users\cse62\OneDrive\Desktop\Camp\LINQ-probelms\testLINQ\obj\Debug\netcoreapp2.1\testLINQ.pdb
+C:\Users\cse62\OneDrive\Desktop\Camp\LINQ-probelms\testLINQ\bin\Debug\netcoreapp2.1\testLINQ.deps.json
+C:\Users\cse62\OneDrive\Desktop\Camp\LINQ-probelms\testLINQ\bin\Debug\netcoreapp2.1\testLINQ.runtimeconfig.json
+C:\Users\cse62\OneDrive\Desktop\Camp\LINQ-probelms\testLINQ\bin\Debug\netcoreapp2.1\testLINQ.runtimeconfig.dev.json
+C:\Users\cse62\OneDrive\Desktop\Camp\LINQ-probelms\testLINQ\bin\Debug\netcoreapp2.1\testLINQ.dll
+C:\Users\cse62\OneDrive\Desktop\Camp\LINQ-probelms\testLINQ\bin\Debug\netcoreapp2.1\testLINQ.pdb

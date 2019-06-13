@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cse62\\OneDrive\\Desktop\\LINQ-probelms\\testLINQ\\testLINQ.csproj",
+      "projectUniqueName": "C:\\Users\\cse62\\OneDrive\\Desktop\\Camp\\LINQ-probelms\\testLINQ\\testLINQ.csproj",
       "projectName": "testLINQ",
-      "projectPath": "C:\\Users\\cse62\\OneDrive\\Desktop\\LINQ-probelms\\testLINQ\\testLINQ.csproj",
+      "projectPath": "C:\\Users\\cse62\\OneDrive\\Desktop\\Camp\\LINQ-probelms\\testLINQ\\testLINQ.csproj",
       "packagesPath": "C:\\Users\\cse62\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cse62\\OneDrive\\Desktop\\LINQ-probelms\\testLINQ\\obj\\",
+      "outputPath": "C:\\Users\\cse62\\OneDrive\\Desktop\\Camp\\LINQ-probelms\\testLINQ\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

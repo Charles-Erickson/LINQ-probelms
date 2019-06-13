@@ -7,7 +7,7 @@ namespace testLINQ
         static void Main(string[] args)
         {
 
-            th_probelm.Namesearch();
+           th_probelm.Namesearch();
 
 
            

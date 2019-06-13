@@ -10,7 +10,15 @@ namespace testLINQ
         public static void Namesearch()
         {
             List<string> words = new List<string>() { "the", "bike", "this", "it", "tenth", "mathmatics" };
-            var queryList = words.Contains("%th%");
+            var queryList = words.Where(m => m.Contains("%th%"));
+            Console.WriteLine(queryList);
+            Console.ReadKey();
+       
+
+
+            //var queryList = words.Contains("%th%").ToList();
+
+            //where(w =>
         }
     }
 }
